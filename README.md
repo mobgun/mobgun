@@ -56,8 +56,3 @@
   <a href="https://t.me/m0bgun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://kaggle.com/m0bgun"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </div>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-
-#
-
